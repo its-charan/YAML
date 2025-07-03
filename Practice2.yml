@@ -1,0 +1,50 @@
+project_management:
+  project_name: AI Chatbot System
+  status: active
+  duration_week: 12
+  technologies: 
+    - Python
+    - FastAPI
+    - React
+    - MongoDB
+  team:
+    - name: Charan
+      role: Team Lead
+      skills: 
+        - Python
+        - Docker
+        - Kubernetes
+      availabe: true
+
+    - name: Kiran
+      role: Frontend Developer
+      skills:
+        - React
+        - Tailwind CSS
+        - Figma
+      availabe: false
+
+    - name: Rahul
+      role: Backend Developer
+      skills:
+        - FastAPI
+        - MongoDB
+        - Redis
+      availabe: true
+  milestones:
+    - name: MVP Launch
+      week: 4
+      completed: true
+
+    - name: Client Development
+      week: 8
+      completed: false
+
+    - name: Final Delivery
+      week: 12
+      completed: false
+  repository:
+    github: https://github.com/charan/ai-chatbot-system
+    issues_enabled: true
+    license: MIT
+    
