@@ -1,0 +1,23 @@
+# Create a YAML file that stores the following:
+
+# Your name
+
+# Age
+
+# Is student (true/false)
+
+# Skills (list of 3 skills)
+
+
+name: Charan
+Age: 22
+is_student: true
+skills:
+  - Python
+  - Docker
+  - Web Development
+  - Kubernetes
+  - AWS
+  - GIT
+  - CI/CD
+  
