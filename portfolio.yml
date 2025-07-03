@@ -1,0 +1,47 @@
+# employeeProfiles:
+#   - name: John
+#     skill:
+#       - Python
+#       - Java
+#       - C++
+#     projects:
+#       - project-1:
+#           name: Basic project
+#           description: This is a basic project
+#           skills: [Python, Java]
+#       - project-2:
+#           name: Basic Project 2
+#           description: This is a basic project 2
+#           skills: [Python, C++]
+
+#     socialLinks:
+#       -linkedIn: https://www.linkedin.com/in/john/
+#       -github: https://github.com/john
+
+
+name: <Your Name>
+profession: <Your Role>   # Example: Full Stack Developer
+experience: <Years>       # Example: 2
+
+skills:
+  - HTML
+  - CSS
+  - JavaScript
+  - React
+  - Node.js
+
+projects:
+  - title: Portfolio Website
+    description: Personal website to showcase my work
+    url: https://yourportfolio.com
+
+  - title: Chat App
+    description: Realtime chat application using Socket.IO
+    url: https://github.com/yourname/chat-app
+
+social_links:
+  github: https://github.com/yourusername
+  linkedin: https://linkedin.com/in/yourusername
+  twitter: https://twitter.com/yourhandle
+
+available_for_hire: true

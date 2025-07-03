@@ -1,0 +1,28 @@
+profile:
+  name: Charan
+  age: 22
+  is_developer: True
+  skills:
+    - Python
+    - Docker
+    - React
+
+  projects:
+    - title: Portfolio site
+      url: http://charan.Developer
+      tech:
+        - HTML
+        - CSS
+        - JavaScript
+
+    - title: Chat App
+      url: https://charan/chatbot
+      tech:
+        - Node.js
+        - Socket.IO
+
+  contact:
+    email: charan@gmail.com
+    location:
+      city: Guntakal
+      state: Andhra Pradesh
