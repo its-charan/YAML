@@ -10,7 +10,7 @@
 
 
 name: Charan
-Age: 22
+age: 22
 is_student: true
 skills:
   - Python
@@ -18,6 +18,6 @@ skills:
   - Web Development
   - Kubernetes
   - AWS
-  - GIT
+  - Git
   - CI/CD
-  
+

@@ -1,0 +1,29 @@
+# Create a YAML file to represent a list of 3 books. Each book should have:
+
+# Title
+
+# Author
+
+# Year
+
+# IsRead (true/false)
+
+# 📝 Use a list of dictionaries.
+
+books :
+  - title : book1
+    author : Charan
+    year : 2020
+    IsRead : false
+
+  - title : book2
+    author : John
+    year : 2019
+    IsRead: true
+
+  - title: book3
+    author: Jane
+    year: 2018
+    IsRead: false
+    
+
