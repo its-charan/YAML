@@ -25,5 +25,40 @@ books :
     author: Jane
     year: 2018
     IsRead: false
-    
+
+  
+
+# Name
+
+# Email
+
+# Address (nested):
+
+# Street
+
+# City
+
+# State
+
+# Pincode
+
+
+userProfile:
+  - name : Charan
+    email : charan@gmail.com  
+    address :
+      city: Guntakal
+      state: AP
+      pincode : 515801
+
+  - name : Kiran
+    email: kiran@gmail.com
+    address :
+      city : Guntakal 
+      state : AP
+      pincode : 515801
+
+  
+  
+
 
